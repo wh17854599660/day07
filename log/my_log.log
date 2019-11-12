@@ -1,0 +1,6 @@
+2019-11-12 10:31:29,045 WARNING [root] [app.py(<module>:60)] - 警告
+2019-11-12 10:55:03,201 WARNING [root] [Test_IHRM_Emp.py(test_update:50)] - 员工修改信息
+2019-11-12 10:56:39,035 INFO [root] [Test_IHRM_Emp.py(test_add:36)] - 员工新增信息
+2019-11-12 10:56:39,066 WARNING [root] [Test_IHRM_Emp.py(test_update:50)] - 员工修改信息
+2019-11-12 10:56:39,066 INFO [root] [Test_IHRM_Emp.py(test_get:61)] - 员工查询信息
+2019-11-12 10:56:39,066 INFO [root] [Test_IHRM_Emp.py(test_delete:72)] - 员工删除信息
